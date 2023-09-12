@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento de Mercado
 
-Este é um projeto de um sistema de gerenciamento de mercado desenvolvido em Java. O sistema possui funcionalidades para atendentes e administradores, permitindo a administração de produtos, vendas, usuários e a realização de vendas.
+Este é um projeto de um sistema de gerenciamento de mercado desenvolvido em Java sob o paradigma de Programação Orientada a Objetos. O sistema possui funcionalidades para atendentes e administradores, permitindo a administração de produtos, vendas, usuários e a realização de vendas.
 
 ## Funcionalidades Principais
 
